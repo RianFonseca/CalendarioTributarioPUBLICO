@@ -1,0 +1,6 @@
+@CalendarioTributario_HostAddress = http://localhost:5193
+
+GET {{CalendarioTributario_HostAddress}}/CalemdarioTributario/
+Accept: application/json
+
+###
